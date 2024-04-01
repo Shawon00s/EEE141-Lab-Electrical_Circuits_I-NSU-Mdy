@@ -40,3 +40,14 @@
 
 <img src="PNGs/Lab_Report_01-Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-22.png">
 <img src="PNGs/Lab_Report_01-Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-22.png">
+
+# *Circuit Simulation →*
+
+### Resistor Checker →
+<img src="PNGs/Lab_Experiment_01_Resistor_Checker.png">
+
+### Verification of Ohm's Law →
+<img src="PNGs/Lab_Experiment_01_Part-01.png">
+
+### Series Circuit and Voltage Divider Law →
+<img src="PNGs/Lab_Experiment_01_Part-02.png">
