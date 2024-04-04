@@ -6,7 +6,7 @@
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-04.png">
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-05.png">
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-06.png">
-<img src="PNGs/LAB_01 -  Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-07.png">
+<img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-07.png">
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-08.png">
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-09.png">
 <img src="PNGs/LAB_01 - Ohm’s Law, KVL, and Voltage Divider Rule using Series Circuit-10.png">
