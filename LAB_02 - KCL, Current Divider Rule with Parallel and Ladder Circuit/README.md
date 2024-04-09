@@ -13,3 +13,8 @@
 <img src="PNGs/LAB_Report_02 - KCL, Current Divider Rule with Parallel and Ladder Circuit-5.png">
 <img src="PNGs/LAB_Report_02 - KCL, Current Divider Rule with Parallel and Ladder Circuit-6.png">
 <img src="PNGs/LAB_Report_02 - KCL, Current Divider Rule with Parallel and Ladder Circuit-7.png">
+
+# *Circuit Simulation →*
+<img src="PNGs/LAB_Simulation_02_Part_I.png">
+<img src="PNGs/LAB_Simulation_02_Part_II.png">
+<img src="PNGs/LAB_Simulation_02_Part_III.png">
