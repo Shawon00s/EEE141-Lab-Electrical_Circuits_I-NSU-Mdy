@@ -19,3 +19,11 @@
 <img src="PNGs/LAB_Report_05 - Verification of Superposition Theorem-12.png">
 <img src="PNGs/LAB_Report_05 - Verification of Superposition Theorem-13.png">
 
+# *Circuit Simulation →*
+
+### Circuit - 01 →
+<img src="PNGs/LAB_Simulation_05-Circuit_01.png">
+### Circuit - 02 →
+<img src="PNGs/LAB_Simulation_05-Circuit_01.png">
+### Circuit - 03 →
+<img src="PNGs/LAB_Simulation_05-Circuit_01.png">
