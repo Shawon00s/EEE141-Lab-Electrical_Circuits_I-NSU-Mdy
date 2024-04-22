@@ -23,7 +23,9 @@
 
 ### Circuit - 01 →
 <img src="PNGs/LAB_Simulation_05-Circuit_01.png">
+
 ### Circuit - 02 →
 <img src="PNGs/LAB_Simulation_05-Circuit_01.png">
+
 ### Circuit - 03 →
 <img src="PNGs/LAB_Simulation_05-Circuit_01.png">
