@@ -22,3 +22,8 @@
 # *Experimental Data →*
 
 <img src="PNGs/LAB_Report_04 - Delta-Wye Conversion-10.png">
+
+# *Lab Simulation →*
+
+### Delta Circuit →
+<img src="PNGs/LAB_Simulation_04_Delta-Circuit.png">
