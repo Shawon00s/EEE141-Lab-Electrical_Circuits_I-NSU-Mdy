@@ -27,3 +27,7 @@
 
 ### Delta Circuit →
 <img src="PNGs/LAB_Simulation_04_Delta-Circuit.png">
+
+### Wye Circuit →
+<img src="PNGs/LAB_Simulation_04_Wye-Circuit.png">
+
