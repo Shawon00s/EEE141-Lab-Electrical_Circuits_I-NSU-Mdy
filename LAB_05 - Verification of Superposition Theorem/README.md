@@ -3,6 +3,22 @@
 <img src="PNGs/LAB_05 - Verification of Superposition Theorem-1.png">
 <img src="PNGs/LAB_05 - Verification of Superposition Theorem-2.png">
 
+# *Lab Setup →*
+
+### Measuring I<sub>2</sub>, I'<sub>2</sub>, I''<sub>2</sub> →
+<img src="PNGs/Verification of Superposition Theorem I.png">
+<img src="PNGs/Verification of Superposition Theorem II.png">
+<img src="PNGs/Verification of Superposition Theorem III.png">
+
+### Measuring V<sub>R1</sub>, V<sub>R2</sub>, V<sub>R3</sub> →
+<img src="PNGs/Verification of Superposition Theorem IV.png">
+
+### Measuring V'<sub>R1</sub>, V'<sub>R2</sub>, V'<sub>R3</sub> →
+<img src="PNGs/Verification of Superposition Theorem V.png">
+
+### Measuring V''<sub>R1</sub>, V''<sub>R2</sub>, V''<sub>R3</sub> →
+<img src="PNGs/Verification of Superposition Theorem VI.png">
+
 # *Lab Report →*
 
 <img src="PNGs/LAB_Report_05 - Verification of Superposition Theorem-01.png">
