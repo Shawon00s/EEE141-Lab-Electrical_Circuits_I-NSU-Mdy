@@ -5,6 +5,11 @@
 <img src="PNGs/LAB_03 - Loading Effect of Voltage Divider Circuit-3.png">
 <img src="PNGs/LAB_03 - Loading Effect of Voltage Divider Circuit-4.png">
 
+# *Lab Setup →*
+
+### Measuring V<sub>out</sub> for 7 KOhm →
+<img src="PNGs/Loading Effect of Voltage Divider Circuit.png">
+
 # *Lab Report →*
 
 <img src="PNGs/LAB_Report_03 - Loading Effect of Voltage Divider Circuit-01.png">
