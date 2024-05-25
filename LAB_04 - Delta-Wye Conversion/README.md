@@ -11,6 +11,7 @@
 
 ### 1st Circuit →
 <img src="PNGs/Delta-Wye Conversion I.png">
+
 ### 2nd Circuit →
 <img src="PNGs/Delta-Wye Conversion II.png">
 
