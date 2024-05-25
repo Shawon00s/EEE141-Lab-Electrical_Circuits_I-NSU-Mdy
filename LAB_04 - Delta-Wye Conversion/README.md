@@ -7,6 +7,15 @@
 <img src="PNGs/LAB_04 - Delta-Wye Conversion-5.png">
 <img src="PNGs/LAB_04 - Delta-Wye Conversion-6.png">
 
+# *Lab Setup →*
+
+### 1st Circuit →
+<img src="PNGs/Delta-Wye Conversion I.png">
+### 2nd Circuit →
+<img src="PNGs/Delta-Wye Conversion II.png">
+
+
+
 # *Lab Report →*
 
 <img src="PNGs/LAB_Report_04 - Delta-Wye Conversion-01.png">
