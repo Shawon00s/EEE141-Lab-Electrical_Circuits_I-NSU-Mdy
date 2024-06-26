@@ -50,4 +50,4 @@
 <img src="PNGs/LAB_Simulation_01_Part-01.png">
 
 ### Series Circuit and Voltage Divider Law →
-<img src="PNGs/LAB_Simulation_01_Part-02.png">
+<img src="PNGs/LAB_Simulation_01_Part-02.png"
