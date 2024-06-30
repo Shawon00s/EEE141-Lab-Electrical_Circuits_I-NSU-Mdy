@@ -24,4 +24,4 @@
 <img src="PNGs/LAB_Report_03 - Loading Effect of Voltage Divider Circuit-10.png">
 
 # *Lab Simulation →*
-<img src="PNGs/LAB_Simulation_03 - Loading Effect of Voltage Divider Circuit.png"
+<img src="PNGs/LAB_Simulation_03 - Loading Effect of Voltage Divider Circuit.png">
