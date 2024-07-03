@@ -31,4 +31,4 @@
 
 <img src="PNGs/LAB_Simulation_06 - Verification of Thevenin’s, Norton’s and Maximum Power I.png">
 <img src="PNGs/LAB_Simulation_06 - Verification of Thevenin’s, Norton’s and Maximum Power II.png">
-<img src="PNGs/LAB_Simulation_06 - Verification of Thevenin’s, Norton’s and Maximum Power III.png"
+<img src="PNGs/LAB_Simulation_06 - Verification of Thevenin’s, Norton’s and Maximum Power III.png">
