@@ -10,4 +10,4 @@
 <img src="PNGs/LAB_07 - Charging and Discharging of RC circuits-6.png">
 <img src="PNGs/LAB_07 - Charging and Discharging of RC circuits-7.png">
 <img src="PNGs/LAB_07 - Charging and Discharging of RC circuits-8.png">
-<img src="PNGs/LAB_07 - Charging and Discharging of RC circuits-9.png">
+<img src="PNGs/LAB_07 - Charging and Discharging of RC circuits-9.png"
