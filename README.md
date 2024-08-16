@@ -1,5 +1,3 @@
-# EEE141-Lab-Electrical_Circuits_I-NSU-Mdy
-
 <em> Course name - EEE141L\
 Faculty - <a href="http://ece.northsouth.edu/people/mahdy-rahman-chowdhury/">Dr. Mahdy Rahman Chowdhury</a>\
 Google Scholar - <a href="https://scholar.google.com.sg/citations?user=PxNOguMAAAAJ&hl=en">Dr. Mahdy Rahman Chowdhury</a>\
